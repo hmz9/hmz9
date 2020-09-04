@@ -15,3 +15,5 @@ I'm Hamza. A Mobile Application Developer from Lahore, Pakistan. great at buildi
 - 💬 Ask me about History, Philosphy or how to be awesome.
 - 📫 How to reach me: contact@hamzabhatti.me
 - ⚡ Fun fact: John Denver wrote Annie's Song in 10 minutes. PS: Thats my favourite song.
+
+![Profile views](https://komarev.com/ghpvc/?username=ameerpro&color=blue)
