@@ -17,6 +17,6 @@ I'm Hamza. A Mobile Application Developer from Lahore, Pakistan. great at buildi
 - ⚡ Fun fact: John Denver wrote Annie's Song in 10 minutes. PS: Thats my favourite song.
 
 ![](https://github-readme-stats.vercel.app/api?username=ameerpro&show_icons=true&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerpro&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kittinunf&hide=html)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ameerpro&color=blue)
