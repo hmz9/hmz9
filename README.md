@@ -10,7 +10,7 @@ I'm Hamza. A Mobile Application Developer from Lahore, Pakistan. great at buildi
 </p>
 
 - 🔭 I’m currently working as Mobile Application Developer
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning Node.js
 - 💬 Ask me about History, Philosphy or where to have good food.
 - 📫 How to reach me: hamza.io@hotmail.com
 - ⚡ Fun fact: John Denver wrote Annie's Song in 10 minutes. PS: Thats my favourite song.
