@@ -5,7 +5,7 @@
   <br><br>
   <samp>
 I'm Hamza. A Mobile Application Developer from Lahore, Pakistan. great at building exceptional, high-quality mobile applications for startups and enterprises. 
-     <br><br>Contact me on <a href="https://twitter.com/realHamzaBhatti">Twitter</a> or <a href="mailto:hamza.io@hotmail.com">Send an Email</a>
+     <br><br>Contact me on <a href="https://twitter.com/yohamxa">Twitter</a> or <a href="mailto:hamza.io@hotmail.com">Send an Email</a>
   </samp>
 </p>
 
