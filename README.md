@@ -1,11 +1,10 @@
 ### Hi There 👋
 
-I'm Hamza. A Mobile Application Developer from Lahore, Pakistan. great at building exceptional, high-quality mobile applications for startups and enterprises. 
+I'm Hamza. A Software Engineer from Lahore building fun stuff for myself and boring stuff for corporate. 
      <br><br>Contact me on <a href="https://twitter.com/yohamxa">Twitter</a> or <a href="mailto:hamza.io@hotmail.com">Send an Email</a>
 </p>
 
-- 🔭 I’m currently working as Mobile Application Developer
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working as Software Engineer (Mobile/Backend)
 - 💬 Ask me about History, Philosphy or where to have good food.
 - 📫 How to reach me: hamza.io@hotmail.com
 - ⚡ Fun fact: John Denver wrote Annie's Song in 10 minutes. PS: Thats my favourite song.
